@@ -1,16 +1,24 @@
-### Hi there 👋
+<img alt="Night Coding" src="https://user-images.githubusercontent.com/68162762/152023339-605890cb-8990-4cc9-9970-38eff172b952.gif"  width="100%" height="400" align="center" />
 
-<!--
-**priyanshu003/priyanshu003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 👨🏻‍💻 &nbsp;About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+🎓 &nbsp;I'm currently pursuing Computer Science And Engineering From WIT Solapur.\
+💡 &nbsp;Some technologies I enjoy working with MERN stack and Android.\
+🌱 &nbsp;I'm on track for learning more about Data Structure and Algorithm and MERN.\
+
+<h3>🛠 Tech Stack</h3>
+
+- 💻 &nbsp; Java | Android 
+- 🌐 &nbsp; CSS | JavaScript | React
+- 🛢 &nbsp; MySQL | Firebase | Mongodb
+- 🔧 &nbsp; Android Studio | Visual Studio code | Git
+
+<br>
+
+## Reach Out me at 🌎 <a href="https://www.linkedin.com/in/priyanshu-jain-674b0b1a1/"><img align="left" width="150" height="146" src="https://cdn.dribbble.com/users/1876781/screenshots/6169542/web_character.gif?raw=true"></a>
+- Sharing updates on <a href="https://www.linkedin.com/in/priyanshu-jain-674b0b1a1/">LinkedIn</a> 😇
+</br>
+</br>
