@@ -1,4 +1,4 @@
-<img alt="Night Coding" src="https://user-images.githubusercontent.com/68162762/152023339-605890cb-8990-4cc9-9970-38eff172b952.gif"  width="100%" height="400" align="center" />
+<img alt="Night Coding" src="https://user-images.githubusercontent.com/68162762/152023339-605890cb-8990-4cc9-9970-38eff172b952.gif"  width="900" height="400" align="center" />
 
 
 ## 👨🏻‍💻 &nbsp;About Me
