@@ -11,10 +11,10 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Java | Android 
-- 🌐 &nbsp; CSS | JavaScript | React
-- 🛢 &nbsp; MySQL | Firebase | Mongodb
-- 🔧 &nbsp; Android Studio | Visual Studio code | Git
+- 💻 &nbsp; Java 
+- 🌐 &nbsp; Spring Boot | Microservices | kafka
+- 🛢 &nbsp; MySQL | Oracle
+- 🔧 &nbsp; Ecllipse | Visual Studio code | Git
 
 <br>
 
