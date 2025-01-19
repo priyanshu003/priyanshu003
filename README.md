@@ -5,9 +5,9 @@
 
 
 
-🎓 &nbsp;I'm currently pursuing Computer Science And Engineering From WIT Solapur.\
-💡 &nbsp;Some technologies I enjoy working with MERN stack and Android.\
-🌱 &nbsp;I'm on track for learning more about Data Structure and Algorithm and MERN.\
+🎓 &nbsp;I'm currently woring as a bacend developer .\
+💡 &nbsp;Some technologies I enjoy working with Java and Spring Boot.\
+🌱 &nbsp;I'm on track for learning more about Data Structure and Algorithm.\
 
 <h3>🛠 Tech Stack</h3>
 
